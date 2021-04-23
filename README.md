@@ -1,1 +1,1 @@
-### A Simple Ecommerce App built with React
+### A Simple Cart App built with React
